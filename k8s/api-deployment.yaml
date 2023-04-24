@@ -9,7 +9,7 @@ metadata:
     app.kubernetes.io/name: golang
   name: vote-api
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: vote-api
