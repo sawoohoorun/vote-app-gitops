@@ -12,3 +12,6 @@ images:
 - digest: sha256:de30970b8960ea898ef375ceec843fb1addf0f48d3f1cec89f0402fc522401fc
   name: quay.io/saroonga/vote-api
   newName: quay.io/saroonga/vote-api
+- digest: sha256:4261465c9c7aad409306b7989b41136b5b0e6962720b1ffaf3f30b2e173fa7eb
+  name: quay.io/saroonga/vote-ui
+  newName: quay.io/saroonga/vote-ui
