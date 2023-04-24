@@ -9,8 +9,8 @@ spec:
     server: https://kubernetes.default.svc 
   project: default 
   source: 
-    path: environment/dev
-    repoURL: https://github.com/blues-man/vote-app-gitops
+    path: environments/dev
+    repoURL: https://github.com/sawoohoorun/vote-app-gitops
     targetRevision: develop
   syncPolicy: 
     automated:
